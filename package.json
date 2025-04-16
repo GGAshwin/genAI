@@ -17,7 +17,8 @@
     "axios": "^1.8.4",
     "fs": "^0.0.1-security",
     "langchain": "^0.3.21",
-    "ollama": "^0.5.12",
+    "ollama": "^0.5.14",
+    "open": "^10.1.1",
     "path": "^0.12.7",
     "pdf-parse": "^1.1.1"
   }

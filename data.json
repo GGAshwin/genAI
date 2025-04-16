@@ -1,0 +1,169 @@
+{
+  "content": [
+    {
+      "id": "105f6259-cdaf-414b-86ea-5bc670448046",
+      "name": "Excel SDK",
+      "description": "The Excel SDK package is a collection of activities allowing you to create automations using Microsoft Excel."
+    },
+    {
+      "id": "835f079e-5f78-482a-aa13-c2b490203613",
+      "name": "Powerpoint SDK",
+      "description": "The PowerPoint SDK package is a collection of activities allowing you to create automations using Microsoft PowerPoint."
+    },
+    {
+      "id": "7eeebf51-8d31-418b-be79-d5ba7a68987d",
+      "name": "Document Information Extraction SDK",
+      "description": "The Document Information Extraction SDK is a collection of activities for extracting and enriching information using Document Information Extraction service."
+    },
+    {
+      "id": "8616edfd-2fa3-4c17-a19b-cb13d455ce1e",
+      "name": "Google Vision AI SDK",
+      "description": "The Google Vision AI SDK is a collection of activities allowing you to extract data from documents using Google Vision AI capabilities."
+    },
+    {
+      "id": "2940834f-ef37-4ee1-9845-d6b8d370fdd6",
+      "name": "PDF SDK",
+      "description": "The SAPUI5 PDF package is a collection of activities allowing you to create automations using PDF."
+    },
+    {
+      "id": "ac5eb0d6-8e8e-494e-ae8b-6031832d410a",
+      "name": "Word SDK",
+      "description": "The Word SDK package is a collection of activities allowing you to create automations using Microsoft Word."
+    },
+    {
+      "id": "e5dadd38-93e2-423a-8126-69aecb04b92b",
+      "name": "Outlook SDK",
+      "description": "The Outlook SDK package is a collection of activities allowing you to create automations using Microsoft Outlook."
+    },
+    {
+      "id": "12552390-cdd0-41c4-befc-3fff549060c5",
+      "name": "Microsoft 365 Cloud SDK",
+      "description": "The Microsoft 365 Cloud SDK package is a collection of activities allowing you to create automations on Office objects in Microsoft Cloud."
+    },
+    {
+      "id": "d8ae7d93-588a-436b-ad0c-c5b0f113c78d",
+      "name": "SAP GUI for HTML SDK",
+      "description": "The SAP GUI for HTML SDK package is a collection of activities allowing you to create automations using SAP GUI for HTML."
+    },
+    {
+      "id": "a221da77-3b85-49a2-af25-4f7689307e0d",
+      "name": "Web SDK",
+      "description": "The Web SDK Package helps you automate web applications."
+    },
+    {
+      "id": "8f09ae29-27d3-49fc-a7b8-000c2427c052",
+      "name": "SAP SuccessFactors SDK",
+      "description": "The SuccessFactors SDK package is a collection of activities allowing you to easily automate SAP SuccessFactors."
+    },
+    {
+      "id": "ab65d9ab-3f49-4db1-968d-324d9aa18757",
+      "name": "SAPUI5 SDK",
+      "description": "The SAPUI5 SDK package is a collection of activities allowing you to create automations using SAPUI5."
+    },
+    {
+      "id": "fe81ed84-69cb-49b0-b544-6680b9683eb6",
+      "name": "BAPI SDK",
+      "description": "The BAPI SDK package is a collection of activities allowing you to create automations in SAP system by calling BAPI."
+    },
+    {
+      "id": "1c0b0383-0db2-4038-89d7-18d2d763ad62",
+      "name": "Ariba SDK",
+      "description": "The ARIBA SDK package is a collection of activities allowing you to create automations using SAP Ariba."
+    },
+    {
+      "id": "cd968c00-74a3-4df3-ae8c-27e7f726bb0f",
+      "name": "Google Workspace SDK",
+      "description": "The Google Workspace SDK package is a collection of activities allowing you to automate Google Workspace products."
+    },
+    {
+      "id": "53fabc17-0a59-45df-8e9f-68387881fb14",
+      "name": "Google Cloud Storage SDK",
+      "description": "The Google Cloud Storage SDK package is a collection of activities allowing you to automate the Google Cloud Storage product."
+    },
+    {
+      "id": "8240546e-1fa0-4135-b154-6bbc3cf79797",
+      "name": "Google Document AI SDK",
+      "description": "As part of the integration of SAP Build Process Automation with Google AI Services, the Google Document AI SDK is a collection of activities that allow you to automate document processing using Google Document AI."
+    },
+    {
+      "id": "f3fecb5c-73c0-4060-a2c9-d561bc4df9c3",
+      "name": "Google Authorization SDK",
+      "description": "The Google Authorization SDK package is a collection of activities allowing you to authorize and access Google Workspace products and Google Document AI."
+    },
+    {
+      "id": "a93a704c-3b18-4ce6-9909-2c270d77f395",
+      "name": "Java SDK",
+      "description": "The Java SDK package is a collection of activities allowing you to automate Java applications made based on frameworks such as Java Swing , JavaFX."
+    },
+    {
+      "id": "2dbcfd22-58ea-49a2-99d6-005f5bb902c3",
+      "name": "Core SDK",
+      "description": "The Core SDK package contains main methods and functions you use to build and run your automation projects."
+    },
+    {
+      "id": "56f834a9-3a33-49dd-8565-1f19fb6a723d",
+      "name": "ProjectMaintenance",
+      "description": "ProjectMaintenance"
+    },
+    {
+      "id": "51bb15fa-68be-4682-806f-2b66c2cd6321",
+      "name": "ProjectMaintenance",
+      "description": "ProjectMaintenance"
+    },
+    {
+      "id": "eu10-canary.irpa-artifactory-store.storetest20250407",
+      "name": "Store Test 2025-04-07",
+      "description": "Store Test 2025-04-07"
+    },
+    {
+      "id": "6c6e3264-a14b-4c39-9550-20bbad588842",
+      "name": "Store second Test 2025-04-04 CC",
+      "description": "Store second Test 2025-04-04 CC"
+    },
+    {
+      "id": "com.sap.content.ecc.purchaseorderapprovalandcreation",
+      "name": "Manage Purchase Order Approval and Creation",
+      "description": "Automate and manage the approvals and creation of Purchase Orders in SAP ERP with approvals performed in SAP Workflow Management or SAP Build Process Automation."
+    },
+    {
+      "id": "visibilityOnProcureToPay",
+      "name": "Visibility on Procure to Pay",
+      "description": "Gain real-time process visibility and insight-to-action in your procurement operations."
+    },
+    {
+      "id": "visibilityOnOrderToCash",
+      "name": "Visibility on Order to Cash",
+      "description": "Gain real-time visibility and insight-to-action on your order-to-cash process to ensure on-time delivery and improve customer satisfaction"
+    },
+    {
+      "id": "visibilityOnAccountsReceivable",
+      "name": "Visibility on Accounts Receivable",
+      "description": "Gain real-time process visibility and insight-to-action on the accounts receivables process and ensure on time collections"
+    },
+    {
+      "id": "visibilityOnAccountsPayable",
+      "name": "Visibility on Accounts Payable",
+      "description": "Gain real-time process visibility and insight-to-action on the accounts payable process and ensure on time payments"
+    },
+    {
+      "id": "vendoronboarding",
+      "name": "Vendor Onboarding",
+      "description": "Create a new vendor in SAP ERP with business validations and approvals using SAP Workflow Management or SAP Build Process Automation."
+    },
+    {
+      "id": "com.sap.content.translatejobposting.translatejobpostings",
+      "name": "Translate Job Postings",
+      "description": "This template is used to translate job requisitions from SAP SuccessFactor using the SAP Document Translation Service."
+    },
+    {
+      "id": "com.sap.content.stockclearance",
+      "name": "Stock Clearance",
+      "description": "Automatically send notifications and the AVIS list regarding stock clearance to responsible stock clearance admin."
+    },
+    {
+      "id": "com.sap.content.servconnotif",
+      "name": "Service Confirmation Notification",
+      "description": "Enhance the standard Service Confirmation process by automatically sending out a notification."
+    }
+  ]
+}

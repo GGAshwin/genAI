@@ -31,7 +31,7 @@ async function createVectorStore(text) {
     content: `Summerize this: ${JSON.stringify(docs)}`,
   };
   const response = await ollama.chat({
-    model: "gemma3:1b",
+    model: "gemma3:4b",
     messages: [message],
     stream: true,
   });

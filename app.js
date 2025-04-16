@@ -2,7 +2,7 @@ import ollama from "ollama";
 
 const message = { role: "user", content: "Why is the sky blue?" };
 const response = await ollama.chat({
-  model: "gemma3:1b",
+  model: "gemma3:4b",
   messages: [message],
   stream: true,
 });
