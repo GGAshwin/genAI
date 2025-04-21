@@ -1,6 +1,3 @@
-// import { express } from "express";
-// import { bodyParser } from "body-parser";
-// import { cors } from "cors";
 const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors");
@@ -10,9 +7,7 @@ const port = process.env.PORT || 3000;
 app.use(cors());
 app.use(bodyParser.json());
 
-// import { findBestMatch } from "string-similarity";
 const findBestMatch = require("string-similarity").findBestMatch;
-// import * as data from "../data.json" assert { type: "json" };
 const data = require("./data.json");
 
 const refinedData = data;
