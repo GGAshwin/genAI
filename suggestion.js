@@ -10,9 +10,15 @@ const response = await ollama.chat({
   messages: [
     {
       role: "system",
-      content: `You are an expert assistant on SDK packages. Here is the available data:\n${JSON.stringify(
+      content: `You are an expert assistant on SDK packages. You are given a list of SDK package data:\n${JSON.stringify(
         refinedData
-      )}. You will find and suggest me a package that closely matches the user query. You will only give me the name of the package, the id of the said package, and a short description of it. If you don't find any package that matches the user query, just say "No package found".`,
+      )}.
+        
+        Your task is to match the user's query to the most relevant package.
+        
+        - If a match is found, return only a JSON object with the following keys: "id", "name", and "description".
+        - If no match is found, respond with the plain text: "No package found".
+        - Do not add any explanation or extra content.`,
     },
     {
       role: "user",
