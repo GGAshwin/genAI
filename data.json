@@ -315,11 +315,6 @@
     "description": "The Core SDK package contains main methods and functions you use to build and run your automation projects."
   },
   {
-    "id": "34615047-8758-4491-8cce-3d42847dd5c3",
-    "name": "Store Test 2025-04-17",
-    "description": "Store Test 2025-04-17"
-  },
-  {
     "id": "com.sap.content.ecc.purchaseorderapprovalandcreation",
     "name": "Manage Purchase Order Approval and Creation",
     "description": "Automate and manage the approvals and creation of Purchase Orders in SAP ERP with approvals performed in SAP Workflow Management or SAP Build Process Automation."
@@ -515,16 +510,6 @@
     "description": "Automate the approval of Purchase Requisitions from SAP Ariba, at Header level by considering all line items using SAP Workflow Management or SAP Build Process Automation."
   },
   {
-    "id": "MPDemo1",
-    "name": "MP Demo Solution Package Test",
-    "description": "test pkg"
-  },
-  {
-    "id": "testsolutionPkgdDdfdemoTejasv",
-    "name": "Demo Solution Package",
-    "description": "test pkg"
-  },
-  {
     "id": "1c1e1cac1a1d4196b105e6a12b79727a",
     "name": "SM-26Mar25- Staging testing after bugfix",
     "description": "Improve your margins in real-time"
@@ -533,26 +518,6 @@
     "id": "9ec582ab8bed45baa176bda432430805",
     "name": "SM-12Mar25 - Checking package in Test post QA deployment",
     "description": "Automate creation & assignment of roles & improve quality"
-  },
-  {
-    "id": "3337e5d3585a43d0a100ac39b47ba2ec",
-    "name": "Yk Test certificate expiry",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "d944a7f9ea01403b82672206da98626b",
-    "name": "SS-test",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "972a0640455c4f65aaaeb285a3177f72",
-    "name": "Package type solution",
-    "description": "test Headline"
-  },
-  {
-    "id": "a15e06be6cb14ec88c0255dd88ad7fa6",
-    "name": "YK-QA Test11M",
-    "description": "Improve your margins in real-time"
   },
   {
     "id": "87f830dadfcf4315bf5756c9b811db14",
@@ -565,44 +530,9 @@
     "description": "Automate creation & assignment of roles & improve quality"
   },
   {
-    "id": "e56d0e63118f43388ebb1116e0619743",
-    "name": "IX-Demo-Package-01",
-    "description": "Automate creation & assignment of roles & improve quality"
-  },
-  {
-    "id": "113025df-6d0c-474c-a7a5-babe8d029ae6",
-    "name": "Store Test 2025-03-10",
-    "description": "Store Test 2025-03-10"
-  },
-  {
-    "id": "07bd2249-942b-4634-a70b-f38ed239a79c",
-    "name": "Store Test 2025-03-07",
-    "description": "Store Test 2025-03-07"
-  },
-  {
-    "id": "eu10-canary.irpa-artifactory-store.storetest20250307",
-    "name": "Store Test 07-03-2025",
-    "description": "Store Test 07-03-2025"
-  },
-  {
     "id": "eu10-canary.spa-registry-dev-consumer-eu.testautomation5",
     "name": "Test Automation Creation - Create Ledger Account Action Dummy Content",
     "description": "Test Automation Creation - Create Ledger Account Action Dummy Content"
-  },
-  {
-    "id": "1ef4e86e-c780-40db-ba01-291a0805b5ed",
-    "name": "Store Test 2025-02-27",
-    "description": "Store Test 2025-02-27"
-  },
-  {
-    "id": "eu10-canary.irpa-artifactory-store.storetest20250224",
-    "name": "Store Test 2025-02-24",
-    "description": "Store Test 2025-02-24"
-  },
-  {
-    "id": "eu10-canary.spa-registry-dev-consumer-eu.testprojectwr",
-    "name": "Test old Submission",
-    "description": "sample testing"
   },
   {
     "id": "857dd32610374fb19004b7fc3d4d915e",
@@ -610,99 +540,14 @@
     "description": "Use the active voice for the headline and focus on the business value. Avoid overly"
   },
   {
-    "id": "eu10-canary.bpi-tools-dev-consumer-eu.nicolasdteststore1",
-    "name": "NicolasD - Test - Store",
-    "description": "Just for test"
-  },
-  {
-    "id": "f386ca5a-cf26-4dc1-81db-5acacfda946d",
-    "name": "Store Test 2025-02-10",
-    "description": "Store Test 2025-02-10"
-  },
-  {
-    "id": "e33977c3-079c-4b68-ac55-081e34c2da3f",
-    "name": "Store Test 2025-02-04",
-    "description": "Store Test 2025-02-04"
-  },
-  {
     "id": "32567522b1214f7aa845a4f3b5250c3a",
     "name": "SHA-E2E-Pkg-Chk-13dec2",
     "description": "Use the active voice for the headline and focus on the business value."
   },
   {
-    "id": "1db926bf-7f7d-4f4b-889c-575eb3c60f8a",
-    "name": "Store Test 2025-01-16",
-    "description": "Store Test 2025-01-16"
-  },
-  {
-    "id": "eu10-canary.spa-registry-dev-consumer-eu.testpackage",
-    "name": "testPackage",
-    "description": "testPackage"
-  },
-  {
-    "id": "c394e1a356974ba588c01a5d10fc4d53",
-    "name": "Demo Solution",
-    "description": "I am tying the headline"
-  },
-  {
-    "id": "15cb272a14744193bfa3626b9919fdd3",
-    "name": "Yogesh 24/12",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "225cd7b31ade40489d1a4d3efc77954b",
-    "name": "SM-24Dec24- Checking Package solution - Ramya's issue new name",
-    "description": "Automate creation & assignment of roles & improve quality"
-  },
-  {
     "id": "debaec6a40ea4a44a23b0c995ff47a22",
     "name": "Mig-Check-Status-Approve-04Dec",
     "description": "Use the active voice for the headline and focus on the business value."
-  },
-  {
-    "id": "feb573eaa2434cc8829a2743a2f5bfb2",
-    "name": "Mig-Chk-Status-Draft-04Dec",
-    "description": "Use the active voice for the headline and focus on the business value."
-  },
-  {
-    "id": "eu10-canary.irpa-artifactory-store.filetest2",
-    "name": "File Test 2",
-    "description": "File Test 2"
-  },
-  {
-    "id": "3c83059a0d684150bb4ef39fe2f47268",
-    "name": "Kr-solupdate - chek official product name that your customers will recognize and avoid abbreviations unless they are",
-    "description": "https://www.youtube.com/watch?v=e1BoHiganzs&list=PL2WDjIcuV0bfzYkLyR"
-  },
-  {
-    "id": "eu10-canary.irpa-artifactory-store.filetest",
-    "name": "File Test",
-    "description": "File Test"
-  },
-  {
-    "id": "bf01a5cfe5c841f78fa554d0de22b165",
-    "name": "PKD Test Package Clone Update",
-    "description": "fxasfsfdfg"
-  },
-  {
-    "id": "179f3246805b4c8b99ee6fc8378d6d50",
-    "name": "SM-10Jul24-820Test Demo1",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "705ba180cb2743d6aac584af261e53a1",
-    "name": "YK - Solution update check the bug checked changed",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "7e786e535b41467c8b8a9361aa7f9c1e",
-    "name": "NGT- existing edited",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "eu10-canary.spa-registry-dev-consumer-eu.process001",
-    "name": "Process 123456789 123456789 123456789 123456789 123456789 123456789 123456789",
-    "description": "Process"
   },
   {
     "id": "eu10-canary.spa-registry-dev-consumer-eu.routetrainoperations",
@@ -713,61 +558,6 @@
     "id": "d8b2d134fbdf43c5bfcad0b929abbca4",
     "name": "Program Review Demo - Package",
     "description": "Automate creation & assignment of roles & improve quality"
-  },
-  {
-    "id": "eu10-canary.irpa-artifactory-store.storetest20241213",
-    "name": "Store Test 2024-12-13",
-    "description": "Store Test 2024-12-13"
-  },
-  {
-    "id": "429d17e93c5844528e34561cafcd96da",
-    "name": "Demo solution",
-    "description": "Automate creation & assignment of roles & improve quality"
-  },
-  {
-    "id": "35472376512b4488bfb267e4c9d51dee",
-    "name": "NGT-Package",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "2b73adc0276846b3b926e2ebc6b97d6d",
-    "name": "PCard Integration",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "5e090fd696bc4f42bb2ce12bcd862109",
-    "name": "Migration- Submitted",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "e151129058ee4338a4ad6955f6d67af1",
-    "name": "JS Multiple Listings",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "de019013e6934e868104204804d3e58c",
-    "name": "SM - One more Package solution",
-    "description": "Automate creation & assignment of roles & improve quality"
-  },
-  {
-    "id": "9df2353ad3524e6e9975aa945cdbcaab",
-    "name": "SHA-Solu-List-status-Draft",
-    "description": "Use the active voice for the headline and focus on the business value."
-  },
-  {
-    "id": "9602593ab977418aa2a7ea245d1bc11a",
-    "name": "SM-10Dec24-835 - Check package solution creation",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "9e35298e4a5d48dcb2741a0e6ab2a746",
-    "name": "Yogesh created solution to delist",
-    "description": "Improve your margins in real-time - changed - changed"
-  },
-  {
-    "id": "d05976f09f224c7ab8ccb47f6511bb77",
-    "name": "Yogesh created solution.",
-    "description": "Improve your margins in real-timedcsxsdcs"
   },
   {
     "id": "ea572f4769474567bdd77f56ce7cba51",
@@ -783,46 +573,6 @@
     "id": "e872c73a5d574df89431a01cb7e3f4c2",
     "name": "KR pt4 changing the name now",
     "description": "https://dcp-portal-ui.d2.services.store.net.sap/solution-hub"
-  },
-  {
-    "id": "11dbdfd2f737445eaeb9f784cad88156",
-    "name": "Package Test",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "28f29c64596f4a1d851dfbebfa2d4f1c",
-    "name": "Yogesh test LPR",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "3951b19c5720413a942cd19b42d35ecf",
-    "name": "krpp01",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "66aef9feb38b4e039f76178559a738df",
-    "name": "KR CB05",
-    "description": "https://jira.tools.sap/browse/MPPORTAL-5233https://jira.tools.sap/browse/MPPORTAL-5233"
-  },
-  {
-    "id": "c6659f9bd4a543088a8cc2b270a7c561",
-    "name": "Created new solution YK",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "c6afd64b01f74d3391edc0df53151e8e",
-    "name": "solution created to test",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "5fb00cb8fa6e4e6bb842b8c72245b88b",
-    "name": "Happy happy solution!!!! Let see is it happy",
-    "description": "Improve your margins in real-time"
-  },
-  {
-    "id": "bb4f110205dd4ccfbd48c07fbb95b373",
-    "name": "JS Release Candidate 3.0",
-    "description": "Improve your margins in real-time"
   },
   {
     "id": "f233afca3f674a55b295e240afc91b6b",

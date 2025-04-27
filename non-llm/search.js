@@ -1,23 +1,72 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors");
+const { findBestMatch } = require("string-similarity");
 const app = express();
 const port = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(bodyParser.json());
 
-const findBestMatch = require("string-similarity").findBestMatch;
 const data = require("./data.json");
-
 const refinedData = data;
 
-function findBestMatchingPackage(input, dataSet, threshold = 0.3) {
-  const stringsToMatch = dataSet.map(
-    (item) => `${item.name} ${item.description}`
+// MAIN FUNCTION - ONLY SLIGHTLY IMPROVED
+// function findBestMatchingPackage(input, dataSet, threshold = 0.2) {
+//   const lowerCaseInput = input
+//     .toLowerCase()
+//     .replace(/[^a-z0-9\s]/gi, "")
+//     .trim(); // normalize input
+
+//   const stringsToMatch = dataSet.map((item) =>
+//     `${item.name} ${item.description}`
+//       .toLowerCase()
+//       .replace(/[^a-z0-9\s]/gi, "")
+//       .trim()
+//   );
+
+//   const matchResult = findBestMatch(lowerCaseInput, stringsToMatch);
+//   const bestMatch = matchResult.ratings[matchResult.bestMatchIndex];
+
+//   if (bestMatch.rating < threshold) {
+//     return { message: "No relevant match found.", code: 404 };
+//   }
+
+//   return dataSet[matchResult.bestMatchIndex];
+// }
+
+function findBestMatchingPackage(input, dataSet, threshold = 0.2) {
+  const lowerCaseInput = input
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/gi, "")
+    .trim();
+
+  // Step 1: Prioritize based on important keywords first
+  for (const item of dataSet) {
+    const combinedText = `${item.name} ${item.description}`.toLowerCase();
+    if (lowerCaseInput.includes("excel") && combinedText.includes("excel")) {
+      return item;
+    }
+    if (
+      lowerCaseInput.includes("powerpoint") &&
+      combinedText.includes("powerpoint")
+    ) {
+      return item;
+    }
+    if (lowerCaseInput.includes("web") && combinedText.includes("web")) {
+      return item;
+    }
+  }
+
+  // Step 2: fallback to string similarity
+  const stringsToMatch = dataSet.map((item) =>
+    `${item.name} ${item.description}`
+      .toLowerCase()
+      .replace(/[^a-z0-9\s]/gi, "")
+      .trim()
   );
 
-  const matchResult = findBestMatch(input, stringsToMatch);
+  const matchResult = findBestMatch(lowerCaseInput, stringsToMatch);
   const bestMatch = matchResult.ratings[matchResult.bestMatchIndex];
 
   if (bestMatch.rating < threshold) {
@@ -27,12 +76,10 @@ function findBestMatchingPackage(input, dataSet, threshold = 0.3) {
   return dataSet[matchResult.bestMatchIndex];
 }
 
-// const userInput =
-//   //   "I am looking for a store package that automates Google Cloud Storage production.";
-//   "random text that is not in the data set";
-
 app.post("/suggest", (req, res) => {
   const userInput = req.body.input;
+
+  console.log("User input:", userInput);
 
   if (!userInput) {
     return res.status(400).json({ error: "Input is required" });
@@ -48,7 +95,7 @@ app.post("/suggest", (req, res) => {
 });
 
 app.get("/health", (req, res) => {
-  res.json({ status: "OK" });
+  res.json({ status: "OK", name: process.env.name, uris: process.env.uris });
 });
 
 app.listen(port, () => {

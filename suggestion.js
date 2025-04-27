@@ -9,8 +9,9 @@ const response = await ollama.chat({
   model: "gemma3:4b",
   messages: [
     {
+      // in a system prompt if u specify that the bot will only return json values, it will not return any other text
       role: "system",
-      content: `You are an expert assistant on SDK packages. You are given a list of SDK package data:\n${JSON.stringify(
+      content: `You are an expert assistant on SDK packages and only return json values. You are given a list of SDK package data:\n${JSON.stringify(
         refinedData
       )}.
         
@@ -23,7 +24,7 @@ const response = await ollama.chat({
     {
       role: "user",
       content:
-        "I am looking for a store package that automates Google Cloud Storage production. Can you suggest me a package that does this?",
+        "I need a ms power point automation tool for presentations. Can you suggest me a package that does this?",
     },
   ],
 });
