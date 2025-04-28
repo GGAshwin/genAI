@@ -8,7 +8,7 @@ const port = process.env.PORT || 3000;
 app.use(cors());
 app.use(bodyParser.json());
 
-const data = require("./data.json");
+const data = require("./filteredData.json");
 const refinedData = data;
 
 // MAIN FUNCTION - ONLY SLIGHTLY IMPROVED

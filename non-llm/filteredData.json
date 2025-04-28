@@ -1,0 +1,857 @@
+[
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.testrksdkautosubmit2",
+    "name": "AutomationProject_with_manualsdk",
+    "description": "manually added sdks"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.testrksdkautosubmit",
+    "name": "AutomationProject_with_sdk",
+    "description": "automatically added sdk"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.testrksbpasubmit",
+    "name": "Process_with_SBPA",
+    "description": "SBPA project with SBPA dependencies"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.testrksdk",
+    "name": "Process_with_manualSdk",
+    "description": "manual sdk added to a process project"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.artworkordersinbound",
+    "name": "Artworks order inbound",
+    "description": "sample submission for events"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.journalentryevents11",
+    "name": "Journal entry events",
+    "description": "sample summary for events"
+  },
+  {
+    "id": "eu10.cim-dev-eu10-004-dev-exp-wf.approvalworkflowactions",
+    "name": "Approval workflow actions",
+    "description": "sample action submission"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.sbpatestpatch6",
+    "name": "HR onboarding for canada",
+    "description": "sample submission summary"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.salesorderapprovalprocess1",
+    "name": "Sales order approval process",
+    "description": "sample submission for Sales order approval process"
+  },
+  {
+    "id": "f3a02142-c629-448c-987d-94fff2b4e9be",
+    "name": "checking",
+    "description": "ch"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.s4leaverequestapprovalprocessextension",
+    "name": "s4 leave request approval process",
+    "description": "This process contains leave request approval flow"
+  },
+  {
+    "id": "2657d608-e472-48fa-89cf-9cc19abad07f",
+    "name": "IRPAStorePackageSubmission",
+    "description": "IRPAStorePackageSubmission"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.billingdocumenteventsforreview",
+    "name": "Billing document events",
+    "description": "Informs a remote system about created, changed, and canceled billing documents"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.purchaserequisitionlev",
+    "name": "Purchase requisition",
+    "description": "This service helps you to create, read, update and delete purchase requisitions"
+  },
+  {
+    "id": "eu10.sap-build-eu10-trial.salesordersmanagementi552711",
+    "name": "Sales Order Management",
+    "description": "This content can be used for managing the sales order"
+  },
+  {
+    "id": "3fe92219-2e96-442c-9e7d-08764636f370",
+    "name": "ProjectMaintenance",
+    "description": "ProjectMaintenance"
+  },
+  {
+    "id": "105f6259-cdaf-414b-86ea-5bc670448046",
+    "name": "Excel SDK",
+    "description": "The Excel SDK package is a collection of activities allowing you to create automations using Microsoft Excel."
+  },
+  {
+    "id": "835f079e-5f78-482a-aa13-c2b490203613",
+    "name": "Powerpoint SDK",
+    "description": "The PowerPoint SDK package is a collection of activities allowing you to create automations using Microsoft PowerPoint."
+  },
+  {
+    "id": "7eeebf51-8d31-418b-be79-d5ba7a68987d",
+    "name": "Document Information Extraction SDK",
+    "description": "The Document Information Extraction SDK is a collection of activities for extracting and enriching information using Document Information Extraction service."
+  },
+  {
+    "id": "8616edfd-2fa3-4c17-a19b-cb13d455ce1e",
+    "name": "Google Vision AI SDK",
+    "description": "The Google Vision AI SDK is a collection of activities allowing you to extract data from documents using Google Vision AI capabilities."
+  },
+  {
+    "id": "2940834f-ef37-4ee1-9845-d6b8d370fdd6",
+    "name": "PDF SDK",
+    "description": "The SAPUI5 PDF package is a collection of activities allowing you to create automations using PDF."
+  },
+  {
+    "id": "ac5eb0d6-8e8e-494e-ae8b-6031832d410a",
+    "name": "Word SDK",
+    "description": "The Word SDK package is a collection of activities allowing you to create automations using Microsoft Word."
+  },
+  {
+    "id": "e5dadd38-93e2-423a-8126-69aecb04b92b",
+    "name": "Outlook SDK",
+    "description": "The Outlook SDK package is a collection of activities allowing you to create automations using Microsoft Outlook."
+  },
+  {
+    "id": "12552390-cdd0-41c4-befc-3fff549060c5",
+    "name": "Microsoft 365 Cloud SDK",
+    "description": "The Microsoft 365 Cloud SDK package is a collection of activities allowing you to create automations on Office objects in Microsoft Cloud."
+  },
+  {
+    "id": "d8ae7d93-588a-436b-ad0c-c5b0f113c78d",
+    "name": "SAP GUI for HTML SDK",
+    "description": "The SAP GUI for HTML SDK package is a collection of activities allowing you to create automations using SAP GUI for HTML."
+  },
+  {
+    "id": "a221da77-3b85-49a2-af25-4f7689307e0d",
+    "name": "Web SDK",
+    "description": "The Web SDK Package helps you automate web applications."
+  },
+  {
+    "id": "8f09ae29-27d3-49fc-a7b8-000c2427c052",
+    "name": "SAP SuccessFactors SDK",
+    "description": "The SuccessFactors SDK package is a collection of activities allowing you to easily automate SAP SuccessFactors."
+  },
+  {
+    "id": "ab65d9ab-3f49-4db1-968d-324d9aa18757",
+    "name": "SAPUI5 SDK",
+    "description": "The SAPUI5 SDK package is a collection of activities allowing you to create automations using SAPUI5."
+  },
+  {
+    "id": "fe81ed84-69cb-49b0-b544-6680b9683eb6",
+    "name": "BAPI SDK",
+    "description": "The BAPI SDK package is a collection of activities allowing you to create automations in SAP system by calling BAPI."
+  },
+  {
+    "id": "1c0b0383-0db2-4038-89d7-18d2d763ad62",
+    "name": "Ariba SDK",
+    "description": "The ARIBA SDK package is a collection of activities allowing you to create automations using SAP Ariba."
+  },
+  {
+    "id": "cd968c00-74a3-4df3-ae8c-27e7f726bb0f",
+    "name": "Google Workspace SDK",
+    "description": "The Google Workspace SDK package is a collection of activities allowing you to automate Google Workspace products."
+  },
+  {
+    "id": "53fabc17-0a59-45df-8e9f-68387881fb14",
+    "name": "Google Cloud Storage SDK",
+    "description": "The Google Cloud Storage SDK package is a collection of activities allowing you to automate the Google Cloud Storage product."
+  },
+  {
+    "id": "8240546e-1fa0-4135-b154-6bbc3cf79797",
+    "name": "Google Document AI SDK",
+    "description": "As part of the integration of SAP Build Process Automation with Google AI Services, the Google Document AI SDK is a collection of activities that allow you to automate document processing using Google Document AI."
+  },
+  {
+    "id": "f3fecb5c-73c0-4060-a2c9-d561bc4df9c3",
+    "name": "Google Authorization SDK",
+    "description": "The Google Authorization SDK package is a collection of activities allowing you to authorize and access Google Workspace products and Google Document AI."
+  },
+  {
+    "id": "a93a704c-3b18-4ce6-9909-2c270d77f395",
+    "name": "Java SDK",
+    "description": "The Java SDK package is a collection of activities allowing you to automate Java applications made based on frameworks such as Java Swing , JavaFX."
+  },
+  {
+    "id": "2dbcfd22-58ea-49a2-99d6-005f5bb902c3",
+    "name": "Core SDK",
+    "description": "The Core SDK package contains main methods and functions you use to build and run your automation projects."
+  },
+  {
+    "id": "com.sap.content.ecc.purchaseorderapprovalandcreation",
+    "name": "Manage Purchase Order Approval and Creation",
+    "description": "Automate and manage the approvals and creation of Purchase Orders in SAP ERP with approvals performed in SAP Workflow Management or SAP Build Process Automation."
+  },
+  {
+    "id": "visibilityOnProcureToPay",
+    "name": "Visibility on Procure to Pay",
+    "description": "Gain real-time process visibility and insight-to-action in your procurement operations."
+  },
+  {
+    "id": "visibilityOnOrderToCash",
+    "name": "Visibility on Order to Cash",
+    "description": "Gain real-time visibility and insight-to-action on your order-to-cash process to ensure on-time delivery and improve customer satisfaction"
+  },
+  {
+    "id": "visibilityOnAccountsReceivable",
+    "name": "Visibility on Accounts Receivable",
+    "description": "Gain real-time process visibility and insight-to-action on the accounts receivables process and ensure on time collections"
+  },
+  {
+    "id": "visibilityOnAccountsPayable",
+    "name": "Visibility on Accounts Payable",
+    "description": "Gain real-time process visibility and insight-to-action on the accounts payable process and ensure on time payments"
+  },
+  {
+    "id": "vendoronboarding",
+    "name": "Vendor Onboarding",
+    "description": "Create a new vendor in SAP ERP with business validations and approvals using SAP Workflow Management or SAP Build Process Automation."
+  },
+  {
+    "id": "com.sap.content.translatejobposting.translatejobpostings",
+    "name": "Translate Job Postings",
+    "description": "This template is used to translate job requisitions from SAP SuccessFactor using the SAP Document Translation Service."
+  },
+  {
+    "id": "com.sap.content.stockclearance",
+    "name": "Stock Clearance",
+    "description": "Automatically send notifications and the AVIS list regarding stock clearance to responsible stock clearance admin."
+  },
+  {
+    "id": "com.sap.content.servconnotif",
+    "name": "Service Confirmation Notification",
+    "description": "Enhance the standard Service Confirmation process by automatically sending out a notification."
+  },
+  {
+    "id": "com.sap.content.energization",
+    "name": "Reconnection Process",
+    "description": "Automate and manage approvals for creating reconnection order and update the meter reading for utilities reconnection process in SAP S/4HANA using SAP BTP."
+  },
+  {
+    "id": "sap.com.aribaprocessvisibility",
+    "name": "Real time Visibility into SAP Ariba Procurement Operations",
+    "description": "Real time visibility into Ariba Procurement Operations (P2O). Procurement Operation teams could track their key performance indicators and gain real time insight into Procure to Order process."
+  },
+  {
+    "id": "com.sap.content.realestatecontractvaluationpostingapproval",
+    "name": "Real Estate Contract Valuation Posting Approval",
+    "description": "Real Estate Contract Valuation Posting Approval is to have a process in place for Right-of-Use asset values in case of any changes to contract."
+  },
+  {
+    "id": "purchaserequisitionheaderapprovalandrelease",
+    "name": "Purchase Requisition Header Approval and Release",
+    "description": "Purchase Requisition Approval at Header level by including all line items using SAP Workflow Management or SAP Build Process Automation."
+  },
+  {
+    "id": "com.sap.content.purchaseorderchange",
+    "name": "Purchase Order Change",
+    "description": "Standardize the process of changing project related purchase order when issues happen during project execution using SAP S/4HANA Cloud for Projects, Project Collaboration."
+  },
+  {
+    "id": "com.sap.content.procuretoorder",
+    "name": "Procure to Order",
+    "description": "Content package include Purchase Requisition Approval  ,Release and Purchase Order creation. This include Purchase Requisition approvals at Items level, Header level and Purchase Order creation."
+  },
+  {
+    "id": "com.sap.content.pmordersdatechangenotif",
+    "name": "Plant Maintenance Order Date Change Notification",
+    "description": "Respond to delayed delivery of non-stock parts needed for maintenance orders using automatic/manual decisions"
+  },
+  {
+    "id": "com.sap.content.nonoperatedjointventurecashcallapproval",
+    "name": "Non Operated Joint Venture Cash Call Approval",
+    "description": "Approval Workflow for Joint Venture Non-Operated Cash call and Billing Invoice"
+  },
+  {
+    "id": "com.sap.mdg.masterdataprocessvisualization",
+    "name": "Master Data Process Visualization",
+    "description": "The Master Data Process Visualization content package for SAP Master Data Governance, cloud edition"
+  },
+  {
+    "id": "com.sap.mdg.mdgprocessworkflowandvisualization",
+    "name": "Master Data Process Approval and Visualization",
+    "description": "Approve, and confirm master data process created using Cloud-Ready Mode in SAP Master Data Governance, visualize MDG process steps and associated workflow together in graphic view. This also includes federation process across multiple MDG systems."
+  },
+  {
+    "id": "com.sap.content.managesalesquotations",
+    "name": "Manage Sales Quotations",
+    "description": "Manage the approvals of Sales Quotation marked for external approval in SAP S/4HANA Sales and Distribution application"
+  },
+  {
+    "id": "com.sap.content.managesalesorders",
+    "name": "Manage Sales Orders",
+    "description": "Automate and manage the approvals of Sales Orders in SAP S/4HANA with validations and approvals performed in SAP Workflow Management or SAP Build Process Automation."
+  },
+  {
+    "id": "com.sap.content.emissiondatamanagement",
+    "name": "Manage Emissions Data",
+    "description": "Collect and Monitor the Emission data  at different frequencies before posting the data into SAP S/4HANA systems."
+  },
+  {
+    "id": "com.sap.content.sobillblk.managedeliveryandbillingblockinsalesorder",
+    "name": "Manage Delivery and Billing Block in Sales Order",
+    "description": "Automate the removal of delivery and billing block in sales order using BTP Workflow and Business Rules capabilities of Workflow Management or SAP Build Process Automation."
+  },
+  {
+    "id": "com.sap.content.managecreditmemorequests",
+    "name": "Manage Credit Memo Requests",
+    "description": "Automate and manage the approvals of Credit Memo Requests in SAP S/4HANA with validations and approvals performed in SAP Build Process Automation or SAP Workflow Management"
+  },
+  {
+    "id": "com.sap.content.releasesalesordercreditblock",
+    "name": "Manage Credit Block on Sales Order",
+    "description": "Manage Credit Block on Sales Order content package enables SAP S/4HANA customers to review the sales orders which are credit blocked and decide about release or reject using SAP Workflow Management or SAP Build Process Automation."
+  },
+  {
+    "id": "com.sap.content.astretire.manageassetretirement",
+    "name": "Manage Asset Retirement",
+    "description": "Automate the deactivation of equipment, work orders, notifications, maintenance plans and retirement of asset."
+  },
+  {
+    "id": "com.sap.content.assetleaseterminationapproval",
+    "name": "Leased Asset Termination Approval",
+    "description": "Leased Asset Termination Approval package enables user to raise approval request for early termination of lease contracts."
+  },
+  {
+    "id": "com.sap.content.journalentrypostingapproval",
+    "name": "Journal Entry Posting Approval",
+    "description": "Journal Entry Posting Approval content package enables to create, validate, approve and post Journal Entries to SAP S/4HANA"
+  },
+  {
+    "id": "com.sap.content.insighttoactionworkflows",
+    "name": "Insight To Action Workflows",
+    "description": "Insight to action workflows to enable actions  in Process Visibility scenarios using SAP Build Process Automation or SAP Workflow Management"
+  },
+  {
+    "id": "com.sap.content.handletenantmoveincancellation",
+    "name": "Handle Tenant Move In Reversal",
+    "description": "This package contains the required artifacts that automatically cancels the service order of tenant and reverses the move-out document of the owner when tenant move-in document is reversed."
+  },
+  {
+    "id": "com.sap.content.ownermoveout.automateownermoveoutwithserviceorderupdate",
+    "name": "Handle Tenant Move In Date Changes",
+    "description": "This package contains the required artifacts that automatically updates the Owner Move-Out date and the start date of Service Order when Tenant changes the Move-In date."
+  },
+  {
+    "id": "com.sap.content.fixedassetacquisition",
+    "name": "Fixed Asset Acquisition Approval",
+    "description": "Approval for fixed asset acquisition"
+  },
+  {
+    "id": "documentcentricapprovalprocess",
+    "name": "Document Centric Approval Process",
+    "description": "Automate document approvals by adding multiple approval steps, invite business users as approvers or reviewers."
+  },
+  {
+    "id": "com.sap.content.managedeenergization",
+    "name": "Disconnection Process",
+    "description": "Automate and Manage Approvals for disconnection document, disconnection order creation and meter reading update for disconnection process in SAP S/4HANA using SAP BTP"
+  },
+  {
+    "id": "com.sap.content.custcontrchng",
+    "name": "Customer Contract Change",
+    "description": "Enables change of Customer Contract related to an Issue in SAP S4HANA Cloud for Projects, Project Collaboration with configurable approval and automatic update of Customer Contract in the SAP S4HANA Cloud system."
+  },
+  {
+    "id": "sap.sf.workforce.integration.crosssystemworkflow",
+    "name": "Cross System Workflow for SAP SuccessFactors Solutions",
+    "description": "This content package enables SAP core hybrid customers to streamline HR business processes that run across SAP SuccessFactors Employee Central and SAP ERP HCM, using the capabilities of SAP Build Process Automation."
+  },
+  {
+    "id": "com.sap.content.createscc.createsocialsecuritycertificate",
+    "name": "Create Social Security Certificate",
+    "description": "Create social security certificates request for traveling to countries for which such agreements exist."
+  },
+  {
+    "id": "com.sap.content.overtimesplit",
+    "name": "Automatic Overtime Split",
+    "description": "Calculate overtime categories for service order and service confirmations based on predefined rules and request approval for them"
+  },
+  {
+    "id": "com.sap.content.aribapurchaserequisitionapproval",
+    "name": "Ariba Purchase Requisitions Approval",
+    "description": "Automate the approval of Purchase Requisitions from SAP Ariba, at Header level by considering all line items using SAP Workflow Management or SAP Build Process Automation."
+  },
+  {
+    "id": "857dd32610374fb19004b7fc3d4d915e",
+    "name": "SHA-Pckg-Solu-Hotfix10.7",
+    "description": "Use the active voice for the headline and focus on the business value. Avoid overly"
+  },
+  {
+    "id": "32567522b1214f7aa845a4f3b5250c3a",
+    "name": "SHA-E2E-Pkg-Chk-13dec2",
+    "description": "Use the active voice for the headline and focus on the business value."
+  },
+  {
+    "id": "c394e1a356974ba588c01a5d10fc4d53",
+    "name": "Demo Solution",
+    "description": "I am tying the headline"
+  },
+  {
+    "id": "3c83059a0d684150bb4ef39fe2f47268",
+    "name": "Kr-solupdate - chek official product name that your customers will recognize and avoid abbreviations unless they are",
+    "description": "https://www.youtube.com/watch?v=e1BoHiganzs&list=PL2WDjIcuV0bfzYkLyR"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.process001",
+    "name": "Process 123456789 123456789 123456789 123456789 123456789 123456789 123456789",
+    "description": "Process"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.routetrainoperations",
+    "name": "Route Train Operations 1234567890 1234567890 1234567890 1234567890 1234567890",
+    "description": "Route Train Operations"
+  },
+  {
+    "id": "9e35298e4a5d48dcb2741a0e6ab2a746",
+    "name": "Yogesh created solution to delist",
+    "description": "Improve your margins in real-time - changed - changed"
+  },
+  {
+    "id": "d05976f09f224c7ab8ccb47f6511bb77",
+    "name": "Yogesh created solution.",
+    "description": "Improve your margins in real-timedcsxsdcs"
+  },
+  {
+    "id": "e872c73a5d574df89431a01cb7e3f4c2",
+    "name": "KR pt4 changing the name now",
+    "description": "https://dcp-portal-ui.d2.services.store.net.sap/solution-hub"
+  },
+  {
+    "id": "66aef9feb38b4e039f76178559a738df",
+    "name": "KR CB05",
+    "description": "https://jira.tools.sap/browse/MPPORTAL-5233https://jira.tools.sap/browse/MPPORTAL-5233"
+  },
+  {
+    "id": "f3c931492ee5428d9ad0f490967d0fb8",
+    "name": "Kr cb02",
+    "description": "https://jira.tools.sap/browse/MPPORTAL-5216"
+  },
+  {
+    "id": "3af987e20eeb43b69339cb2bec44a8bf",
+    "name": "SM-10Jul24-0844 - IS Solution - Bettter name",
+    "description": "Improve your margins in real-time Dynamically"
+  },
+  {
+    "id": "33588fe374c942b7bcb0690ea465add6",
+    "name": "SS-demo-architecure-diagram",
+    "description": "Improve your margins in real-time newly updated by partner"
+  },
+  {
+    "id": "c5457c61ee4240dfb82a2acb8f24fb25",
+    "name": "KR-pt2",
+    "description": "4671439"
+  },
+  {
+    "id": "9251cf1d70164f2dbde2c22a2b506306",
+    "name": "SHA-EMS-E2E-Package-Solution",
+    "description": "Use the active voice for the headline and focus on the business value"
+  },
+  {
+    "id": "451d572207a543519e5f9f9e981d7b2b",
+    "name": "KR-t3ST",
+    "description": "https://solution-hub-wfm-qa.cfapps.eu12.hana.ondemand.com/"
+  },
+  {
+    "id": "9ae5e8f7a10c4fa1b24983f4310be6ad",
+    "name": "New SOlution",
+    "description": "Improve your margins in real-tim."
+  },
+  {
+    "id": "ed69af23-172d-4019-97ae-c85655dd0890",
+    "name": "Smoke W7 create purchase order",
+    "description": "This package is to be added as a dependency"
+  },
+  {
+    "id": "4dfd43d3534b4bd3ba573fd28837cc2e",
+    "name": "Bot for Job Scheduling",
+    "description": "Verifies job completion and generates excel reports using SM36 and SM37 transaction codes"
+  },
+  {
+    "id": "a362657f2669485692f656bc0c4c0db2",
+    "name": "Bot for Creation of Planned Order",
+    "description": "Creation of planned order using business application programming interface"
+  },
+  {
+    "id": "cb0d61c388ba4467b9bc2a2420c76584",
+    "name": "Bot for Creation of Production Order",
+    "description": "Create production order in SAP systems using Business Application Programming Interface"
+  },
+  {
+    "id": "d4795b1155f34cb38a37cc706cfe3114",
+    "name": "Bot for Release of Production Order",
+    "description": "Release production order in SAP ECC via Business Application Programming Interface (BAPI)"
+  },
+  {
+    "id": "eu10-canary.lcnc-demo.actiontemplateonly",
+    "name": "Action template only",
+    "description": "Action template only summary"
+  },
+  {
+    "id": "eu10.store-content-dev.processactions",
+    "name": "Process Actions dev",
+    "description": "Actions to manage workflow or process in SAP Build Process Automation"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.storesubmissiontest",
+    "name": "2402a Actions project store submission",
+    "description": "2402a Actions project store submission"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.salesorderest2",
+    "name": "sales oreder",
+    "description": "sales oreder"
+  },
+  {
+    "id": "b2071bd76ba74682bf9250034714b389",
+    "name": "SmartBiz Bots - Utilities - FP04 - Write Off Process",
+    "description": "Wipro's SmartBiz Bot for Write Off Process (Utilities)"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.extendedrpawithdependencyautomationexecution",
+    "name": "Extended RPA With Dependency (Automation Execution)",
+    "description": "Extended RPA With Dependency (Automation Execution) summary"
+  },
+  {
+    "id": "eu10-canary.content.samplesalesordermanagement",
+    "name": "BPI-1817 Sales Order Approvals - Sample",
+    "description": "BPI-1817 Sales Order Approvals - Sample"
+  },
+  {
+    "id": "eu10.storecontentsubmission.salesorder",
+    "name": "BPI-1817 Sales Order",
+    "description": "BPI-1817 Sales Order"
+  },
+  {
+    "id": "eu10.storecontentsubmission.getcustomerdetails",
+    "name": "BPI-1817 Get Customer Details",
+    "description": "BPI-1817 Get Customer Details"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.extendedrpawithoutdependencyautomationexecution",
+    "name": "Extended RPA Without Dependency (Automation Execution)",
+    "description": "DON'T ADD AS DEPENDENCY"
+  },
+  {
+    "id": "eu10-canary.bpi-tools-dev-consumer-eu.helloworld5",
+    "name": "Hello world",
+    "description": "This is a sample"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.actionasadependency",
+    "name": "Action as a Dependency",
+    "description": "Action as a Dependency summary"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.supplierinvoiceswithdocumentinformationextraction3",
+    "name": "Supplier Invoices with Document Information Extraction",
+    "description": "Supplier Invoices with Document Information Extraction summary"
+  },
+  {
+    "id": "eu10-canary.bpi-tools-dev-consumer-eu.extendedrpawithdependencyforautomationexecutiononly",
+    "name": "Extended RPA With Dependency for Automation Execution only",
+    "description": "Extended RPA With Dependency for Automation Execution only (dont add as dependency)"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.extendedrpawithoutdependencyforautomationexecutiononly",
+    "name": "Extended RPA Without Dependency for Automation Execution only",
+    "description": "Extended RPA Without Dependency for Automation Execution only (dont add as dependency)"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.calm",
+    "name": "CALM API",
+    "description": "CALM API"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.acdc",
+    "name": "AC DC",
+    "description": "AC DC"
+  },
+  {
+    "id": "eu10-canary.lcnc-demo.spawithactionsdependencies",
+    "name": "SPA with Actions Dependencies",
+    "description": "SPA with Actions Dependencies"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.actionspackagegetcostcenter",
+    "name": "Actions Package - Get Cost Center",
+    "description": "Actions Package - Get Cost Center"
+  },
+  {
+    "id": "eu10-canary.lcnc-demo.actionpackageforkt",
+    "name": "Action Package For KT",
+    "description": "Action Package For KT Sample Summary"
+  },
+  {
+    "id": "eu10-canary.bpi-tools-dev-consumer-eu.xiaohuistore",
+    "name": "Xiaohui Store (submission)",
+    "description": "Xiaohui Store (summary)"
+  },
+  {
+    "id": "eu10-canary.bpi-tools-dev-consumer-eu.checkactionswithsegmentedctions",
+    "name": "Check Action package with segmented actions",
+    "description": "Check Action package with segmented actions"
+  },
+  {
+    "id": "eu10-canary.irpa-artifactory-store.algprojectforsaveaswdecision",
+    "name": "ALGPackageTemplateWithDecision",
+    "description": "ALG PackageTemplateWithDecision"
+  },
+  {
+    "id": "eu10-canary.bpi-tools-dev-consumer-eu.actionprojectcrud",
+    "name": "ActionProjectCRUD",
+    "description": "publication to store"
+  },
+  {
+    "id": "eu10.storecontentsubmission.invoiceapprovalprocesssample",
+    "name": "Invoice Approval Process",
+    "description": "This sample content is designed to help users to get started in automating invoice approvals. It is based on one of our Tutorials for SAP Process Automation."
+  },
+  {
+    "id": "eu10-canary.content.changerequestprocess",
+    "name": "Change and Innovation Approval Process",
+    "description": "This sample content helps users to get started in streamlining and digitalizing a process for requesting and approving innovations and changes to existing solutions to speed up the process and increase transparency."
+  },
+  {
+    "id": "eu10-canary.bpi-tools-dev-consumer-eu.testactiontags",
+    "name": "AxM AP Tags",
+    "description": "AxM AP Tags"
+  },
+  {
+    "id": "eu10-canary.irpa-artifactory-store.demoimportexportwithdecision",
+    "name": "Demo import/export with decision",
+    "description": "Demo import/export with decision"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.consumptionofactionproject4",
+    "name": "Consumption of action projects as a dependency4",
+    "description": "Consumption of action projects as a dependency"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.consumptionofactionproject3",
+    "name": "Consumption of action projects as a dependency3",
+    "description": "SPA project dependent on Rpa project and action project"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.consumptionofactionproject2",
+    "name": "Consumption of action projects as a dependency2",
+    "description": "SPA project dependent on SPA project and action project"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.consumptionofactionproject1",
+    "name": "Consumption of action projects as a dependency1",
+    "description": "SPA project dependent on action project/s"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.spawithactiondependency",
+    "name": "SPA with action dependency",
+    "description": "SPA project with action package as dependency"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.actiondependentpackage",
+    "name": "Action dependent package",
+    "description": "dependent package summary"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.standaloneactionproject",
+    "name": "Standalone Action Project",
+    "description": "Standalone Action Project created from spa-registry-dev / submission summary"
+  },
+  {
+    "id": "ecbda22c-17bb-42f1-8836-94715b2a52a3",
+    "name": "Validate SAPMLIPA-31521 - Store Replication",
+    "description": "Validate SAPMLIPA-31521 - Store Replication"
+  },
+  {
+    "id": "eu10-canary.lcnc-demo.templateonlysubmission",
+    "name": "Template Only Submit",
+    "description": "Template Only Submit"
+  },
+  {
+    "id": "eu10-canary.lcnc-demo.templatelcnc",
+    "name": "Template Only LCNC",
+    "description": "Template Only LCNC"
+  },
+  {
+    "id": "eu10-canary.bpi-tools-dev-consumer-eu.e2e6",
+    "name": "Blabla sub",
+    "description": "Blabla sub"
+  },
+  {
+    "id": "5f1bf9f9-d2c7-4667-8505-8211530f4cfa",
+    "name": "Smoke W7 create purchase order",
+    "description": "Smoke W7 create purchase order"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.extrpawithprojdescandname",
+    "name": "ExtRpaWithPackageDescAndName",
+    "description": "this is package summary"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.greendayparentpackage",
+    "name": "Green Day parent package",
+    "description": "Green Day parent package"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.extrpawithdependency1935",
+    "name": "Ext RPA With Dependency 1935",
+    "description": "Ext RPA With Dependency 1935"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.extrpawithoutdependency1935",
+    "name": "Ext RPA Without Dependency 1935",
+    "description": "Ext RPA Without Dependency 1935"
+  },
+  {
+    "id": "cce565c9-c4a7-47e2-bd79-3f1ba3525ab3",
+    "name": "ReusablePackageAsProject",
+    "description": "ReusablePackageAsProject"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.testextrpaforspecialchar5",
+    "name": "!@#$%^&*(*)_+~:\"|}{|?/\\<>,.;",
+    "description": "!@#$%^&*(*)_+~:\"|}{|?/\\<>,.;"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.extendedtemplaterpawithoutdependencyforautomationexc2",
+    "name": "Extended Template RPA Without Dependency for Automation Exc",
+    "description": "For Automation Job"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.extrpawithalltags",
+    "name": "Ext RPA with all tags",
+    "description": "Ext RPA with all tags"
+  },
+  {
+    "id": "17b29c1b-5209-45fc-b7af-5830d902533d",
+    "name": "SAPMLIPA-26723",
+    "description": "SAPMLIPA-26723 - package with open submissions"
+  },
+  {
+    "id": "62a85fbe-dbbd-4cd8-835d-ae96b1c0476a",
+    "name": "SAPMLIPA-26723",
+    "description": "SAPMLIPA-26723 - package without open submissions"
+  },
+  {
+    "id": "eu10-canary.lcnc-demo.spa14955832601260",
+    "name": "SPA14955832601260",
+    "description": "Package submitted by Automation Execution"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.lcnctemplatewithnodep",
+    "name": "LCNCTemplateWithNoDep",
+    "description": "Lcnc template with no dependency"
+  },
+  {
+    "id": "eu10-canary.lcnc-demo.processlcnc",
+    "name": "LCNC with Dependency for Import",
+    "description": "LCNC with Dependency for Import"
+  },
+  {
+    "id": "eu10-canary.bpi-tools-dev-consumer-eu.extendedirpawithdependencies",
+    "name": "Extended IRPA with dependencies",
+    "description": "Extended IRPA with dependencies"
+  },
+  {
+    "id": "eu10-canary.bpi-tools-dev-consumer-eu.extendedirpadependentpackage",
+    "name": "Extended IRPA dependent package",
+    "description": "dependency to Extended IRPA package"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.demolcncwithdep",
+    "name": "Demo Lcnc with dep",
+    "description": "dummy project for lcnc"
+  },
+  {
+    "id": "eu10-canary.lcnc-demo.spa8122029807743",
+    "name": "LCNC With Dependency for bug 1801",
+    "description": "1801"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.lcncwithalreadyimporteddependency",
+    "name": "Lcnc with already imported dependency",
+    "description": "package with already imported dependency of IRPA source type"
+  },
+  {
+    "id": "eu10-canary.bpi-tools-dev-consumer-eu.lcncwithdep",
+    "name": "Lcnc with dep2",
+    "description": "Lcnc with dep"
+  },
+  {
+    "id": "eu10-canary.bpi-tools-dev-consumer-eu.lcncwithdependency",
+    "name": "Lcnc with images",
+    "description": "Lcnc with images"
+  },
+  {
+    "id": "eu10-canary.spa-registry-dev-consumer-eu.testlcncwithdependency",
+    "name": "TemplateLCNCWithDep",
+    "description": "LCNC Template"
+  },
+  {
+    "id": "eu10-canary.bpi-tools-dev-consumer-eu.metallica",
+    "name": "Metallica",
+    "description": "Contains Master of puppets"
+  },
+  {
+    "id": "eu10-canary.bpi-tools-dev-consumer-eu.aworldofdatatypes",
+    "name": "A world of Data Types",
+    "description": "A world of Data Types"
+  },
+  {
+    "id": "29b86a44-f701-4230-b1d3-ecc2508f0533",
+    "name": "Open SAP MS Office",
+    "description": "Demo on store workflow"
+  },
+  {
+    "id": "051f1a53-2159-4ab7-9482-2819f50a902e",
+    "name": "benoit's package",
+    "description": "benoit's package"
+  },
+  {
+    "id": "6263c55e-9f0c-45dc-ba02-c13ef5993208",
+    "name": "00D - Yet another E2E process for unleashing the value of automations",
+    "description": "work work"
+  },
+  {
+    "id": "098663ab-469c-4e46-884a-d618e14500ca",
+    "name": "00C - Readily built business content. Configure & run!",
+    "description": "Automates a process from beginning to end!"
+  },
+  {
+    "id": "16d5e626-43c3-49c7-86a1-4f7b73c4342d",
+    "name": "00B - Another editable learning package",
+    "description": "Non scholae, sed vitae discimus!"
+  },
+  {
+    "id": "b72d4fef-b795-466a-87a3-24e37edd7db3",
+    "name": "00A - An editable learning package",
+    "description": "Learn how to automate your business in 15 minutes"
+  },
+  {
+    "id": "af8762a8-b270-46d0-97b3-3b07b9902c58",
+    "name": "Store Fork Me",
+    "description": "A forkable package"
+  },
+  {
+    "id": "c8e16b5b-f32e-4b5d-9c74-0d58e66c60a5",
+    "name": "Sign-off - SAPMLIPA-22615 - Warn Users Of Deactivated Artifacts",
+    "description": "Warn Users Of Deactivated Artifacts"
+  },
+  {
+    "id": "1340d074-2cb0-460f-90da-854c830b6b73",
+    "name": "MkProject",
+    "description": "MkProject"
+  },
+  {
+    "id": "f3917f5f-c03d-429f-8f01-b4243b199cd9",
+    "name": "StorePrepareHtml",
+    "description": "<script>alert(\"summary\")</script>"
+  },
+  {
+    "id": "7ae045e8-4ed1-4345-b578-dcc38cce249f",
+    "name": "Forkable Package",
+    "description": "Forkable Package"
+  }
+]
