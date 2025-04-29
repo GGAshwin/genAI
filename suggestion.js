@@ -1,12 +1,12 @@
 import ollama from "ollama";
-import * as data from "./data.json" assert { type: "json" };
+import * as data from "./non-llm/filteredData.json" assert { type: "json" };
 
 const refinedData = data.default.content;
 
 // console.log(refinedData);
 
 const response = await ollama.chat({
-  model: "gemma3:4b",
+  model: "deepseek-r1:7b",
   messages: [
     {
       // in a system prompt if u specify that the bot will only return json values, it will not return any other text
@@ -24,7 +24,7 @@ const response = await ollama.chat({
     {
       role: "user",
       content:
-        "I need a ms power point automation tool for presentations. Can you suggest me a package that does this?",
+        "I need a package to automate my spreadsheet program workflow. Can you suggest me a package that does this?",
     },
   ],
 });

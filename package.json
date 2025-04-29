@@ -20,7 +20,7 @@
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "fs": "^0.0.1-security",
-    "langchain": "^0.3.21",
+    "langchain": "^0.3.24",
     "ollama": "^0.5.14",
     "open": "^10.1.1",
     "path": "^0.12.7",
