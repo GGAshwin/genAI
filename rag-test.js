@@ -42,6 +42,10 @@ const cosineSimilarity = (a, b) => {
 };
 
 function extractJsonFromLLMResponse(text) {
+  if (text.match(/^\[/)) {
+    text = JSON.parse(text);
+    return text[0];
+  }
   const match = text.match(/```json\s+([\s\S]*?)\s+```/);
   if (match && match[1]) {
     try {
@@ -75,7 +79,7 @@ async function pickBestWithLLM(userInput, packages) {
   console.log("Generating response...");
 
   const llm = await ollama.chat({
-    model: "deepseek-r1:7b",
+    model: "gemma3:1b",
     baseUrl: "http://127.0.0.1:11434",
     messages: messages,
   });

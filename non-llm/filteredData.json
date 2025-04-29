@@ -685,24 +685,9 @@
     "description": "Smoke W7 create purchase order"
   },
   {
-    "id": "eu10-canary.spa-registry-dev-consumer-eu.extrpawithprojdescandname",
-    "name": "ExtRpaWithPackageDescAndName",
-    "description": "this is package summary"
-  },
-  {
-    "id": "eu10-canary.spa-registry-dev-consumer-eu.greendayparentpackage",
-    "name": "Green Day parent package",
-    "description": "Green Day parent package"
-  },
-  {
     "id": "eu10-canary.spa-registry-dev-consumer-eu.extrpawithdependency1935",
     "name": "Ext RPA With Dependency 1935",
     "description": "Ext RPA With Dependency 1935"
-  },
-  {
-    "id": "eu10-canary.spa-registry-dev-consumer-eu.extrpawithoutdependency1935",
-    "name": "Ext RPA Without Dependency 1935",
-    "description": "Ext RPA Without Dependency 1935"
   },
   {
     "id": "cce565c9-c4a7-47e2-bd79-3f1ba3525ab3",
